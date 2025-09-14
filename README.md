@@ -1,2 +1,3 @@
 # num_recon
-an number recognition ML model
+a number recognition ML model:
+
